@@ -1,0 +1,4 @@
+res://default_env.tres
+res://Characters/cat_character.tscn
+res://Levels/game_level_one.tscn
+res://Characters/cat_character.gd
