@@ -1,11 +1,13 @@
 2a60927148abd1d33b818b535e306557
-::res://::1677893909
-default_env.tres::Environment::1667446844929825942::1677893715::0::1::::<><>::
+::res://::1678373683
+default_env.tres::Environment::1667446844929825942::1678369393::0::1::::<><>::
 icon.png::CompressedTexture2D::744281936339533894::1677888082::1677888545::1::::<><>::
+left cows.png::CompressedTexture2D::6735399560360896382::1678368594::1678368594::1::::<><>::
 ::res://Art/::1677888256
-::res://Art/Sprout Lands - Sprites - Basic pack/::1677888256
+::res://Art/Sprout Lands - Sprites - Basic pack/::1678373683
 read_me.txt::TextFile::-1::1677874977::0::1::::<><>::
-::res://Art/Sprout Lands - Sprites - Basic pack/Characters/::1677888546
+::res://Art/Sprout Lands - Sprites - Basic pack/Characters/::1678374317
+all cow.png::CompressedTexture2D::1993099273114413486::1678374317::1678374319::1::::<><>::
 Basic Charakter Actions.png::CompressedTexture2D::8879222905604538467::1677874977::1677888546::1::::<><>::
 Basic Charakter Spritesheet.png::CompressedTexture2D::5773999922372623586::1677874977::1677888546::1::::<><>::
 Free Cow Sprites.png::CompressedTexture2D::3686171665763736762::1677874977::1677888546::1::::<><>::
@@ -34,8 +36,10 @@ Tall Grass hill tiles v.2.png::CompressedTexture2D::1086005550498139580::1677874
 Grass.png::CompressedTexture2D::8754940323932884499::1677874977::1677888546::1::::<><>::
 Hills.png::CompressedTexture2D::8261926698764725000::1677874977::1677888545::1::::<><>::
 Tilled Dirt.png::CompressedTexture2D::6060437607970433482::1677874977::1677888546::1::::<><>::
-::res://Characters/::1677893715
-cat_character.gd::GDScript::-1::1677893626::0::1::::<>CharacterBody2D<>::
-cat_character.tscn::PackedScene::5653891210407600409::1677893715::0::1::::<><>::res://Characters/cat_character.gd<>uid://coi762aliy4gc
-::res://Levels/::1677893715
-game_level_one.tscn::PackedScene::5584259290441364905::1677893715::0::1::::<><>::uid://cms106dgbeif6
+::res://Characters/::1678369393
+cat_character.gd::GDScript::-1::1678030403::0::1::::<>CharacterBody2D<>::
+cat_character.tscn::PackedScene::5653891210407600409::1678369393::0::1::::<><>::res://Characters/cat_character.gd<>uid://coi762aliy4gc
+Cow.gd::GDScript::-1::1678041255::0::1::::<>Sprite2D<>::
+cow.tscn::PackedScene::1696366154478749152::1678369393::0::1::::<><>::uid://bsruydl3reu1g<>res://Characters/Cow.gd
+::res://Levels/::1678369393
+game_level_one.tscn::PackedScene::5584259290441364905::1678369393::0::1::::<><>::uid://cms106dgbeif6<>uid://bj3v3tm3fmrq7<>uid://clgepekuiypuk<>uid://pqcl81pumj2c<>uid://dpyeyw317kmrg<>uid://cslyr0ng7p60e<>uid://dwy7t80vqnlip<>uid://bk4lsl0prswl5<>uid://csj6jqrg7wsw2<>uid://c3d6s5atamt5u<>uid://yfy5xst86gvw

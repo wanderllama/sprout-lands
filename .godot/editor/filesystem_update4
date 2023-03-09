@@ -1,4 +1,5 @@
 res://default_env.tres
-res://Characters/cat_character.tscn
 res://Levels/game_level_one.tscn
-res://Characters/cat_character.gd
+res://Characters/cat_character.tscn
+res://Characters/cow.tscn
+res://Characters/cow_two.tscn
